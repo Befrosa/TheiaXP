@@ -1,0 +1,22 @@
+body {
+    background-image: url(../../assets/backgrounds/b-theiaxp.png);
+    font-family: 'Open Sans', 'icones', sans-serif;
+    color: #FFFFFF;
+}
+
+.cabecalho {
+    background-color: #1D232A;
+    display: flex;
+    padding: 20px 60px;
+    height: 90px;
+    align-items: center;
+    
+    
+}
+.cabecalho__logo{
+    width: 5rem;
+}
+.menu-cabecalho{
+    color: #FFFFFF;
+    padding-inline-end: 1.0rem;
+}
